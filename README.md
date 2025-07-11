@@ -1,8 +1,8 @@
-📦 Logistic Managers 
+📦 Logistic Managers:
 
 Logistic Managers is a software project designed to manage and optimize logistics operations such as inventory control, order tracking, vehicle assignment, and delivery status monitoring. It is aimed at streamlining supply chain processes for small to medium logistics companies.
 
-🚀 Features
+🚀 Features:
 
 📋 Dashboard to view orders, deliveries, and shipments
 
@@ -16,7 +16,8 @@ Logistic Managers is a software project designed to manage and optimize logistic
 
 📊 Reporting and analytics
 
-🛠️ Technologies Used
+🛠️ Technologies Used:
+
 Python / Java / Node.js (update based on your code)
 
 MySQL / MongoDB (if used)
